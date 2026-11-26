@@ -157,3 +157,9 @@ BS Information Systems – Business Analytics
 West Visayas State University
 
 GitHub: [RalphIlarde](https://github.com/RalphIlarde)
+
+## Live Dashboard
+
+Explore the interactive dashboard:
+
+[Open SDG 7 Global Clean Energy Analytics Hub](https://sdg7-clean-energy-analytics-jfwifqh6w6jgzcmqfjkevh.streamlit.app/)
